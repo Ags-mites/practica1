@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    letter-spacing: 0.5;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+.container{
+    width: 70%;
+    border: 1px solid rgb(78, 78, 78);
+    border-radius: 10px;
+    margin: auto;
+    padding:20px ;
+}
+.titulo{
+    text-align: center;
+    background-color: seagreen;
+    color: white;
+    padding: 5px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+}
+.contenido{
+    padding: 15px 0px;
+}
+.imagen{
+    text-align: center;
+}
