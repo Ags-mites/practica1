@@ -4,6 +4,7 @@ body{
     letter-spacing: 0.5;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 25px;
+    background-color: #333;
 }
 .container{
     width: 70%;
@@ -11,17 +12,36 @@ body{
     border-radius: 10px;
     margin: auto;
     padding:20px ;
+    background-color: white;
 }
 .titulo{
     text-align: center;
     background-color: seagreen;
     color: white;
     padding: 5px;
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
 }
 .contenido{
     padding: 15px 0px;
 }
+.texto{
+    color: rgb(43, 43, 44);
+    letter-spacing: 0.5px;
+    text-align: justify;
+}
 .imagen{
     text-align: center;
+    margin: 25px 0px;
+}
+    .menu{
+    background-color:#026b85;
+    border-radius: 0px 0px 12px 12px;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px 30px;
+    margin: 0px;
+    font-size: 15px;
+    color: white;
 }
