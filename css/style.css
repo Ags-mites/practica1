@@ -30,6 +30,7 @@ body{
 }
 .imagen{
     text-align: center;
+<<<<<<< HEAD
     margin: 25px 0px;
 }
     .menu{
@@ -45,3 +46,38 @@ body{
     font-size: 15px;
     color: white;
 }
+=======
+}
+.suscribete{
+    background-color: #2e8b57;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+.suscribete input{
+    border: 0px;
+    height: 20px;
+    width: 300px;
+}
+.suscribete button{
+    border: 0px;
+    height: 22px;
+    color: white;
+    background-color: teal;
+}
+.informacion{
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.informacion div ul{
+    list-style: none;
+    padding: 0px;
+
+}
+.informacion div{
+    margin-right: 30px;
+}
+
+>>>>>>> footer
