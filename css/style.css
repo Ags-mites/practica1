@@ -30,6 +30,9 @@ body{
 }
 .imagen{
     text-align: center;
+}
+.imagen{
+    text-align: center;
 <<<<<<< HEAD
     margin: 25px 0px;
 }
@@ -45,8 +48,6 @@ body{
     margin: 0px;
     font-size: 15px;
     color: white;
-}
-=======
 }
 .suscribete{
     background-color: #2e8b57;
@@ -80,4 +81,3 @@ body{
     margin-right: 30px;
 }
 
->>>>>>> footer
