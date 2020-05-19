@@ -36,17 +36,16 @@ body{
     margin: 25px 0px;
 }
     .menu{
-    background-color:#026b85;
+    background-color:#4b4b4b;
     border-radius: 0px 0px 12px 12px;
 }
 .menu ul{
     display: flex;
     justify-content: space-between;
-    list-style: none;
     padding: 10px 30px;
     margin: 0px;
     font-size: 15px;
-    color: white;
+    color: rgb(176, 204, 255);
 }
 .suscribete{
     background-color: #2e8b57;
